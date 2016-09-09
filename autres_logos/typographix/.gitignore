@@ -1,0 +1,5 @@
+*
+!*.tex
+!*.pdf
+typographix.pdf
+!.gitignore
